@@ -8,13 +8,13 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Dara Kelly" />
-    <h1>Blank space here</h1>
-    <p>More emptiness</p>
-    <p>This doesn&#39;t weigh nothing</p>
+    <h1>Signal is processed</h1>
+    <p>You look on helplessly while your brain insists on reading</p>
+    <p>You wish you could stop. You cannot</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/page-2/">You may go on, but not come back</Link>
   </Layout>
 )
 
