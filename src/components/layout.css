@@ -7,7 +7,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: repeating-linear-gradient(orangered, salmon 20px, mediumaquamarine 10px);
+  background: repeating-linear-gradient(to right, orangered, salmon 10%, mediumaquamarine 20%);
 }
 article,
 aside,
