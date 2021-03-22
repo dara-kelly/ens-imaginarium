@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Episteme Topographer`,
-    description: `Committed to truth`,
-    author: `@truthsters`,
+    title: `Tallaght United Separatists and Liberation Army`,
+    description: `TUSLA`,
+    author: `@Dara_Kelly_`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
