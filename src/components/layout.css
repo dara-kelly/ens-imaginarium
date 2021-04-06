@@ -8,7 +8,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: midnightblue;
-  color: '#fafafa';
+  color: #cccff;
 }
 article,
 aside,
@@ -65,6 +65,7 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color: seashell;
 }
 mark {
   background-color: '#fafafa';
@@ -238,6 +239,7 @@ h1 {
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
+  color: seashell;
 }
 h2 {
   margin-left: 0;
@@ -255,6 +257,7 @@ h2 {
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
   line-height: 1.1;
+  color: seashell;
 }
 h3 {
   margin-left: 0;
@@ -272,6 +275,7 @@ h3 {
   text-rendering: optimizeLegibility;
   font-size: 1.38316rem;
   line-height: 1.1;
+  color: seashell;
 }
 h4 {
   margin-left: 0;
@@ -387,6 +391,7 @@ p {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
+  color: whitesmoke;
 }
 figure {
   margin-left: 0;
