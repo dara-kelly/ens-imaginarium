@@ -193,7 +193,7 @@ textarea {
   font: inherit;
 }
 html {
-  font: 112.5%/1.45em 'VT323', monospace;
+  font: 112.5%/1.45em VT323, monospace;
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -208,7 +208,7 @@ html {
 }
 body {
   color: seashell;
-  font-family: 'VT323', monospace;
+  font-family: VT323, monospace;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
