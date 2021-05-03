@@ -1,13 +1,12 @@
-@charset "UTF-8";
+
+html {
+    font-size: 15px;
+}
 
 @font-face { 
 	font-family: Courier;
 	font-weight: normal;
 	font-style: normal;
-}
-
-html {
-    font-size: 15px;
 }
 
 body {
