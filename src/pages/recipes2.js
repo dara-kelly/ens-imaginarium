@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 
 
-const recipePage = () => (
+const recipe2Page = () => (
   <Layout>
     <h1>Recipes page</h1>
     <p>Recipes will be going in below</p>
