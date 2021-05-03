@@ -33,6 +33,7 @@ const Header = ({ siteTitle }) => (
 			<li><Link to="/about">About</Link></li>
 			<li><Link to="/">Home</Link></li>
 			<li><Link to="/recipes">Recipes</Link></li>
+			<li><Link to="/readinglist">Reading List</Link></li>
 		</ul>
 	</nav>
   </header>
