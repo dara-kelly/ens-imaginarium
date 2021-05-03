@@ -9,3 +9,8 @@ body {
 	font-family: Courier
 }
 
+ul.menu {
+	float: right;
+	font-size: 1.2rem;
+}
+

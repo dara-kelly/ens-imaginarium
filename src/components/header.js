@@ -29,13 +29,10 @@ const Header = ({ siteTitle }) => (
       </h1>
     </div>
 	<nav>
-		<ul>
+		<ul class="menu">
 			<li><Link to="/about">About</Link></li>
 			<li><Link to="/">Home</Link></li>
 			<li><Link to="/recipes">Recipes</Link></li>
-			<li></li>
-			<li></li>
-			<li></li>
 		</ul>
 	</nav>
   </header>
