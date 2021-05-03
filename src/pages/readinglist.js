@@ -7,9 +7,9 @@ import Layout from "../components/layout"
 const readinglistPage = () => (
   <Layout>
     <h1>Reading list</h1>
- 
+<div> 
     <ul> 
-	<li>Joan Retallack - The Poethical Wager</li>
+	<li> Joan Retallack - The Poethical Wager</li>
     	<li> Donald Davie - Articulating Energy</li>
     	<li> Hugh Kenner - The Pound Era</li>
     	<li> Guy Davenport - Geographies of the Imagination</li>
@@ -17,7 +17,8 @@ const readinglistPage = () => (
     	<li> Marjorie Perloff - 21st Century Modernism</li> 
     	<li> Anne Carson - Eros the Bittersweet</li>
     </ul>
+	</div>
   </Layout>
 )
 
-export default recipePage
+export default readinglistPage
