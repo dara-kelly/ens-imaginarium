@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 
 
-const recipePage = () => (
+const readinglistPage = () => (
   <Layout>
     <h1>Reading list</h1>
  
@@ -17,6 +17,7 @@ const recipePage = () => (
     	<li> Marjorie Perloff - 21st Century Modernism</li> 
     	<li> Anne Carson - Eros the Bittersweet</li>
     </ul>
-</Layout>
+  </Layout>
 )
+
 export default recipePage
