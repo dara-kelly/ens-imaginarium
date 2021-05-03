@@ -12,5 +12,8 @@ body {
 ul.menu {
 	float: right;
 	font-size: 1.2rem;
+	margin-right: 2.2rem;
+	list-style-type: none;
+	display: inline;
 }
 
