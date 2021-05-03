@@ -16,7 +16,7 @@ const IndexPage = () => (
     </div>
     <Link to="/page-2/">You may go on, but not come back</Link>
     
-    <ul style="margin: 0.8rem"> 
+    <ul> 
 	<li>Joan Retallack - The Poethical Wager</li>
     	<li> Donald Davie - Articulating Energy</li>
     	<li> Hugh Kenner - The Pound Era</li>
