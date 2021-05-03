@@ -23,4 +23,4 @@ const recipe2Page = () => (
   </Layout>
 )
 
-export default recipePage
+export default recipe2Page
