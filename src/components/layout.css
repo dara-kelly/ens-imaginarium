@@ -2,9 +2,13 @@ body {
 	background-color: yellow;
 	color: red;
 	font-family: Courier;
-	margin-left: 1.25rem;
+	margin: 2.25rem;
 }
 
 @font-face {
 	font-family: Courier
+}
+
+ul {
+	line-height: 90%;
 }

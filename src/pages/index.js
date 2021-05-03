@@ -16,14 +16,15 @@ const IndexPage = () => (
     </div>
     <Link to="/page-2/">You may go on, but not come back</Link>
     
-    <ul> Joan Retallack - The Poethical Wager</ul>
-    <ul> Donald Davie - Articulating Energy</ul>
-    <ul> Hugh Kenner - The Pound Era</ul>
-    <ul> Guy Davenport - Geographies of the Imagination</ul>
-    <ul> Frank Kermode - Romantic Image</ul>
-    <ul> Marjorie Perloff - 21st Century Modernism</ul> 
-    <ul> Anne Carson - Eros the Bittersweet</ul>
-
+    <ul style="margin: 0.8rem"> 
+	<li>Joan Retallack - The Poethical Wager</li>
+    	<li> Donald Davie - Articulating Energy</li>
+    	<li> Hugh Kenner - The Pound Era</li>
+    	<li> Guy Davenport - Geographies of the Imagination</li>
+    	<li> Frank Kermode - Romantic Image</li>
+    	<li> Marjorie Perloff - 21st Century Modernism</li> 
+    	<li> Anne Carson - Eros the Bittersweet</li>
+    </ul>
   </Layout>
 )
 
