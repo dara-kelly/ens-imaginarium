@@ -17,4 +17,6 @@ const recipePage = () => (
     	<li> Marjorie Perloff - 21st Century Modernism</li> 
     	<li> Anne Carson - Eros the Bittersweet</li>
     </ul>
+</Layout>
+)
 export default recipePage
