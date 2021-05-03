@@ -3,17 +3,6 @@ module.exports = {
     title: `Dara Kelly`,
     description: `Dara Kelly`,
     author: `@Dara_Kelly_`,
-	  menuLinks: [
-		  {
-			  name:'home',
-			  link:'/',
-		  }
-		  {
-			  name:'page2',
-			  link:'/page-2',
-		  }
-	  ]
-				  	
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
