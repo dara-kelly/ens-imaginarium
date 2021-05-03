@@ -16,6 +16,11 @@ const readinglistPage = () => (
     	<li> Frank Kermode - Romantic Image</li>
     	<li> Marjorie Perloff - 21st Century Modernism</li> 
     	<li> Anne Carson - Eros the Bittersweet</li>
+	<li> Louis-Ferdinand Celine - Journey to the End of Night</li>
+	<li> Alain Robbe-Grillet - The Voyeur</li>
+	<li> Mathias Enard - Zone</li>
+	<li> Kathy Acker - Empire of the Senseless</li>
+	<li> Ingebord Bachmann - Malina</li>
     </ul>
 	</div>
   </Layout>
