@@ -23,7 +23,7 @@ const IndexPage = () => (
     <ul> Frank Kermode - Romantic Image</ul>
     <ul> Marjorie Perloff - 21st Century Modernism</ul> 
     <ul> Anne Carson - Eros the Bittersweet</ul>
-    <ul> Nicholas Brown - Autonomy</ul>
+
   </Layout>
 )
 
