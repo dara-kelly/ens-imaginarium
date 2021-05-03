@@ -17,3 +17,10 @@ ul.menu {
 	display: inline;
 }
 
+.menu a:hover {
+	background-color: #fff;
+}
+
+.menu a:active{ 
+	color: #00000f;
+}
