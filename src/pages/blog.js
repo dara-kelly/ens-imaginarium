@@ -4,6 +4,7 @@ import Header from "../components/header.js"
 export default function Blog() {
 	return (
 		<div style={{color: `blue`}}>
+		<Header />
 		<h1>Blog posts</h1>
 		<p>any and all</p>
 		</div>
