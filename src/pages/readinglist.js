@@ -23,6 +23,38 @@ const readinglistPage = () => (
 	<li> Ingebord Bachmann - Malina</li>
     </ul>
 	</div>
+
+	<div>
+		<h1>Poets</h1>
+	<ul>
+		<li>Carson</li>
+		<li>Celan </li>
+		<li>Cesaire </li>
+		<li>Moore </li>
+		<li>Olson </li>
+		<li>Oppen </li>
+		<li>Pound </li>
+		<li>Prynne </li>
+		<li>Riley </li>
+		<li>Sinclair </li>
+		<li>Zukofksy </li>
+	</ul>
+	</div>
+
+	<div>
+		<h1>Fiction</h1>
+	<ul>
+		<li>Bernhard, Thomas - Concrete/The Loser </li>
+		<li>Cohen, Joshua - Witz/Moving Kings </li>
+		<li>Conrad, Joseph - Nostromo </li>
+		<li>Gaddis, William - JR </li>
+		<li>Gombrowicz, Witold - Cosmos</li>
+		<li>Quin, Ann - Three/Berg </li>
+		<li>Roth, Philip - Sabbaths Theatre </li>
+		<li>West, Nathanael - Day of the Locust </li>
+
+	</ul>
+	</div>
   </Layout>
 )
 
