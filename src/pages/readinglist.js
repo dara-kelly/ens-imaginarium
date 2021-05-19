@@ -25,7 +25,7 @@ const readinglistPage = () => (
 	</div>
 
 	<div>
-	<ul style="float:right">
+	<ul>
 		<li>Carson</li>
 		<li>Celan </li>
 		<li>Cesaire </li>
@@ -44,13 +44,18 @@ const readinglistPage = () => (
 		<h1>Fiction</h1>
 	<ul >
 		<li>Bernhard, Thomas - Concrete/The Loser </li>
+		<li>Bolano, Roberto - The Savage Detectives</li>
 		<li>Cohen, Joshua - Witz/Moving Kings </li>
 		<li>Conrad, Joseph - Nostromo </li>
+		<li>Ernaux, Annie - The Years</li>
 		<li>Gaddis, William - JR </li>
 		<li>Gombrowicz, Witold - Cosmos</li>
+		<li>Guimaraes Rosa, Joao - The Devil to Pay in the Backlands</li>
+		<li>Krasznahorkai, Laszlo - Satantango</li>
 		<li>Lewis, Wyndham - Tarr/Childermass</li>
 		<li>Quin, Ann - Three/Berg </li>
-		<li>Roth, Philip - Sabbaths Theatre </li>
+		<li>Roth, Philip - Sabbath's Theatre </li>
+		<li>Szentkuthy, Miklos - Prae</li>
 		<li>West, Nathanael - Day of the Locust </li>
 
 	</ul>
