@@ -9,6 +9,9 @@ const SecondPage = () => (
     <SEO title="Other page" />
     <h1>How can there be an extension of nothing&#63;</h1>
     <p>This is the second page, or another page, the non-first page. It is defined only by its opposition to the first page (which is to say, spatially for you, temporally for me), and has no substance.</p>
+
+<img src="../Images/tx.svg" width="879" height="767">
+
     <Link to="/">Go back. You can. But it won&#39;t be the same.</Link>
   </Layout>
 )
