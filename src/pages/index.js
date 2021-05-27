@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>You look on helplessly while your mind insists on perceiving</p>
     <p>You wish you could stop. <i>You cannot</i>.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
+      <Tx />
     </div>
     <Link to="/page-2/">You may go on, but not come back</Link>
     
