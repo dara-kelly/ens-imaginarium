@@ -29,4 +29,16 @@ const Image = () => {
   return <Img fluid={data.placeholderImage.childImageSharp.fluid} />
 }
 
-export default Image
+const Tx = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      placeholderImage: file(relativePath: { eq: "tx.svg" }) {
+        childImageSharp {
+          fluid(maxWidth: 767) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  `)
+export default Tx 
