@@ -8,6 +8,7 @@
     "gatsby": "^2.19.45",
     "gatsby-cli": "^2.11.2",
     "gatsby-image": "^2.2.44",
+    "gatsby-plugin-catch-links": "^3.10.0",
     "gatsby-plugin-manifest": "^2.2.48",
     "gatsby-plugin-offline": "^3.0.41",
     "gatsby-plugin-react-helmet": "^3.1.24",
@@ -17,7 +18,8 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "save": "^2.4.0"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
