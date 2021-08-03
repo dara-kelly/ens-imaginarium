@@ -14,6 +14,11 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-catch-links`,
+    { resolve:`gatsby-transformer-remark`,
+      options: {
+        footnotes: true,
+        gfm: true,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
