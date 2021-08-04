@@ -2,9 +2,8 @@
  * Layout component that queries for data
  * with Gatsby's useStaticQuery component
  *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
+ * See: https://www.gatsbyjs.com/docs/use-static-query/
  */
-
 
 import * as React from "react"
 import PropTypes from "prop-types"
@@ -40,7 +39,9 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()} no escape 
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.com">Gatsby</a>
         </footer>
       </div>
     </>
