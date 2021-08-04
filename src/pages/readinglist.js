@@ -11,16 +11,14 @@ const readinglistPage = () => (
     <ul> 
 	<li> Joan Retallack - The Poethical Wager</li>
     	<li> Donald Davie - Articulating Energy</li>
-    	<li> Hugh Kenner - The Pound Era</li>
     	<li> Guy Davenport - Geographies of the Imagination</li>
     	<li> Frank Kermode - Romantic Image</li>
     	<li> Marjorie Perloff - 21st Century Modernism</li> 
-    	<li> Anne Carson - Eros the Bittersweet</li>
-	<li> Louis-Ferdinand Celine - Journey to the End of Night</li>
-	<li> Alain Robbe-Grillet - The Voyeur</li>
+    	<li> Louis-Ferdinand Celine - Journey to the End of Night</li>
 	<li> Mathias Enard - Zone</li>
 	<li> Kathy Acker - Empire of the Senseless</li>
 	<li> Ingebord Bachmann - Malina</li>
+	<li> West, Nathanael - Day of the Locust </li>
     </ul>
 	</div>
 
@@ -57,7 +55,7 @@ const readinglistPage = () => (
 		<li>Quin, Ann - Three/Berg </li>
 		<li>Roth, Philip - Sabbath's Theatre </li>
 		<li>Szentkuthy, Miklos - Prae</li>
-		<li>West, Nathanael - Day of the Locust </li>
+		
 
 	</ul>
 	</div>
