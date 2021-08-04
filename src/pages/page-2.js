@@ -1,18 +1,15 @@
-import React from "react"
+import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
-import Tx from "../components/image"
+import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Other page" />
-    <h1>How can there be an extension of nothing&#63;</h1>
-    <p>This is the second page, or another page, the non-first page. It is defined only by its opposition to the first page (which is to say, spatially for you, temporally for me), and has no substance.</p>
-
-	<Tx />
-    <Link to="/">Go back. You can. But it won&#39;t be the same.</Link>
+    <Seo title="Page two" />
+    <h1>Hi from the second page</h1>
+    <p>Welcome to page 2</p>
+    <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
 
